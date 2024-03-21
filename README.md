@@ -17,7 +17,7 @@
 
 <!-- End Document Outline -->
 ## Problem and Objective
-- During my research process for developing the  [Tokenized Real Estate Trading Exchange](https://github.com/VinhQuocTran/Finalterm-Real-Estate-Blockchain) as part of my Blockchain university class, I stumbled on an article that captured my attention. The article, titled ["Purchasing a house in Vietnam is an uphill battle - VnExpress International"](https://e.vnexpress.net/news/readers-views/purchasing-a-house-in-vietnam-is-an-uphill-battle-4547223.html) highlighted the challenges associated with buying a house in Vietnam. According to the article:
+- During my research , I stumbled on an article that captured my attention. The article, titled ["Purchasing a house in Vietnam is an uphill battle - VnExpress International"](https://e.vnexpress.net/news/readers-views/purchasing-a-house-in-vietnam-is-an-uphill-battle-4547223.html) highlighted the challenges associated with buying a house in Vietnam. According to the article:
 > **"The average income of Vietnamese is just over $3,000 a year. Thus, it will take us more than <u>160 years-worth of income to purchase a house.</u>"**
 - As a "most rational Reddit user", I rarely believe in any newspaper unless it is backed by number. Otherwise, I find it necessary to gather data and do due diligence for myself. 
 - So I decided to take this as a learning opportunity for building a web scraping pipeline and getting data ready for the analysis process.
